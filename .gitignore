@@ -131,6 +131,7 @@ celerybeat.pid
 .env
 .venv
 env/
+examples/videos/
 venv/
 ENV/
 env.bak/
